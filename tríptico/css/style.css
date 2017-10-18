@@ -1,0 +1,83 @@
+#titulo{
+  border: 1px solid black;
+  background-color: #ffc107;
+  padding: .5em;
+  overflow: hidden;
+  width: 637px;
+  text-align:center;
+}
+ .titulo {float: inherit;;}
+
+ #columna{
+   border:1px solid black;
+   padding:1.5em;
+   width: 125px;
+   height: 479px;
+   position: absolute;
+   top: 43px;
+   left: 8px;
+   background-color: white;
+   overflow: hidden;
+   text-align:justify;
+ }
+
+ .monopoly{
+   background-image: url(../img/monopoly.png);
+   background-size: 100%;
+   width: 173px;
+   height: 167px;
+   position: absolute;
+   top: 399px;
+   left: 9px;
+ }
+
+ #columna_centro{
+   padding:1.5em;
+   width: 169px;
+   height: 353px;
+   position: absolute;
+   top: 58px;
+   left: 230px;
+   background-color: white;
+   overflow: hidden;
+   text-align:justify;
+ }
+
+ #columna_derecha{
+   border:1px solid black;
+   padding:1.5em;
+   width: 125px;
+   height: 479px;
+   position: absolute;
+   top: 43px;
+   left: 488px;
+   background-color: white;
+   overflow: hidden;
+   text-align:justify;
+ }
+
+ .monopoly2{
+   background-image: url(../img/monopoly2.jpg);
+   background-size: 100%;
+   width: 110px;
+   height: 92px;
+   position: absolute;
+   top: 475px;
+   left: 518px;
+ }
+
+ #pie{
+   border: 1px solid black;
+   background-color: #ffc107;
+   padding: .5em;
+   overflow: hidden;
+   width: 637px;
+   position: absolute;
+   top: 571px;
+   left: 8px;
+   text-align:center;
+ }
+
+ h3{
+   text-align: center;
+ }

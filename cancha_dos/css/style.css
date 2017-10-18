@@ -1,0 +1,107 @@
+.cancha{
+  width: 1000px;
+  height:499px;
+  background:#8cb27c;
+  position:relative;
+}
+
+.borde{
+  background: #8cb27c;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+  width: 947px;
+  height: 447px;
+  position: absolute;
+  top:20px ;
+  bottom:0 ;
+  right:0 ;
+  left:22px ;
+}
+
+.arco{
+  background: #8cb27c;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+  width: 82px;
+  height: 139px;
+  position: absolute;
+  top:141px ;
+  bottom:0 ;
+  right:0 ;
+  left:-5px ;
+}
+
+.arco_dos{
+  background: #8cb27c;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+  width: 82px;
+  height: 139px;
+  position: absolute;
+  top:141px ;
+  bottom:0 ;
+  right:0 ;
+  left:860px ;
+}
+
+.circulo {
+  width:150px;
+  height: 150px;
+  background: #fffcfc;
+  position:absolute;
+  top:174px;
+  bottom:0;
+  right:0;
+  left:447px;
+  -webkit-border-radius: 50%;
+}
+
+.circulo_dos{
+  width:140px;
+  height: 140px;
+  background:#8cb27c;
+  position:absolute;
+  top:5px;
+  bottom:0;
+  right:0;
+  left:5px;
+  -webkit-border-radius: 50%;
+}
+
+div{
+  width:21px;
+  height:21px;
+}
+
+#ball{
+  background-image: url(../img/ball.png);
+  background-size: 100%;
+  position:absolute;
+  top:179px;
+  bottom:0;
+  right:0;
+  left:106px;
+}
+
+#ball1{
+  background-image: url(../img/ball.png);
+  background-size: 100%;
+  position:absolute;
+  top:95px;
+  bottom:0;
+  right:0;
+  left:530px;
+}
+
+#ball2{
+  background-image: url(../img/ball.png);
+  background-size: 100%;
+  position:absolute;
+  top:291px;
+  bottom:0;
+  right:0;
+  left:871px;
+}
